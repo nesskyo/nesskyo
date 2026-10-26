@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=44A8FF&center=true&vCenter=true&width=400&lines=Hello,+World!+%F0%9F%91%8B" alt="Hello World" />
 
 # 💫 About Me:
-🔭 I’m currently working on Ship manager<br>🖥️ Love creating something with HTML, CSS, JS, Typescript, PHP, dan React<br>🌱 I’m currently learning mongoDB<br>🤖 Tertarik dengan AI, Database, Data sains<br>⚡ "Grow beyond your limit"⚡ 
+🔭 I’m currently working on Oceanus(Private project)<br>🖥️ Love creating something with HTML, CSS, JS, Typescript, PHP, dan React<br>🌱 I’m currently learning mongoDB<br>🤖 Tertarik dengan AI, Database, Data sains<br>⚡ "Grow beyond your limit"⚡ 
 
 
 ## 🌐 Socials:
